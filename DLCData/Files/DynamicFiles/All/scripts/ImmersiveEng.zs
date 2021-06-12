@@ -23,6 +23,6 @@ mods.immersiveengineering.MetalPress.removeRecipe(<libvulpes:productrod:4>);
 //ADD MACHINES
 mods.immersiveengineering.MetalPress.addRecipe(<immersiveposts:metal_rods:1> * 2, <ore:ingotCopper>, <immersiveengineering:mold:2>, 3000);
 
-mods.immersiveengineering.ArcFurnace.addRecipe(<ore:ingotTitaniumAluminide>, <ore:ingotAluminum>, <minecraft:air>, 50, 512, [<ore:ingotTitanium>]);
-mods.immersiveengineering.ArcFurnace.addRecipe(<ore:ingotTitaniumIridium>, <ore:ingotIridium>, <minecraft:air>, 50, 512, [<ore:ingotTitanium>]);
-mods.immersiveengineering.ArcFurnace.addRecipe(<ore:ingotSilicon>, <ore:sand>, <minecraft:air>, 100, 256, [<ore:blockClay>]);
+mods.immersiveengineering.ArcFurnace.addRecipe(<ore:ingotTitaniumAluminide>, <ore:ingotAluminum>, null, 50, 512, [<ore:ingotTitanium>]);
+mods.immersiveengineering.ArcFurnace.addRecipe(<ore:ingotTitaniumIridium>, <ore:ingotIridium>, null, 50, 512, [<ore:ingotTitanium>]);
+mods.immersiveengineering.ArcFurnace.addRecipe(<ore:ingotSilicon>, <ore:sand>, null, 100, 256, [<ore:blockClay>]);
