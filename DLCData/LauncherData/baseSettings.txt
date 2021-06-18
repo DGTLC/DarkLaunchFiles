@@ -1,4 +1,4 @@
-version=0.5.0b
+version=0.6.0b
 usedRepo=0
 workingMode=0
 forceUpdate=0.5.0b, 0.6.0b
