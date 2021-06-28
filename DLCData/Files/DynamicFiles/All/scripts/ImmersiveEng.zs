@@ -1,3 +1,5 @@
+import mods.immersiveengineering.ArcFurnace;
+
 //REMOVE NORMAL
 recipes.removeByRecipeName("immersiveengineering:hammercrushing_gold");
 recipes.removeByRecipeName("immersiveengineering:hammercrushing_iron");
@@ -23,6 +25,6 @@ mods.immersiveengineering.MetalPress.removeRecipe(<libvulpes:productrod:4>);
 //ADD MACHINES
 mods.immersiveengineering.MetalPress.addRecipe(<immersiveposts:metal_rods:1> * 2, <ore:ingotCopper>, <immersiveengineering:mold:2>, 3000);
 
-mods.immersiveengineering.ArcFurnace.addRecipe(<ore:ingotTitaniumAluminide>, <ore:ingotAluminum>, <minecraft:air>, 50, 512, [<ore:ingotTitanium>]);
-mods.immersiveengineering.ArcFurnace.addRecipe(<ore:ingotTitaniumIridium>, <ore:ingotIridium>, <minecraft:air>, 50, 512, [<ore:ingotTitanium>]);
-mods.immersiveengineering.ArcFurnace.addRecipe(<ore:ingotSilicon>, <ore:sand>, <minecraft:air>, 100, 256, [<ore:blockClay>]);
+mods.immersiveengineering.ArcFurnace.addRecipe(<advancedrocketry:productingot>, <immersiveengineering:metal:1>, null, 50, 512, [<libvulpes:productingot:7>]);
+mods.immersiveengineering.ArcFurnace.addRecipe(<advancedrocketry:productingot:1>, <libvulpes:productingot:10>, null, 50, 512, [<libvulpes:productingot:7>]);
+mods.immersiveengineering.ArcFurnace.addRecipe(<libvulpes:productingot:3>, <minecraft:sand>, null, 100, 256, [<minecraft:clay>]);
