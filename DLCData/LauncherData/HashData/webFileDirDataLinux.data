@@ -2215,6 +2215,7 @@
 §DynamicFiles§High§config§adpother§Sources§animal_death.cfg
 §DynamicFiles§High§config§adpother§Sources§animal_feeding.cfg
 §DynamicFiles§High§config§adpother§Sources§explosion.cfg
+§DynamicFiles§High§config§adpother§Sources§hostile_mob_death.cfg
 §DynamicFiles§High§config§adpother§Sources§lava_mixing_water.cfg
 §DynamicFiles§High§config§adpother§Sources§player_death.cfg
 §DynamicFiles§High§config§adpother§Sources§player_eating.cfg
@@ -3211,6 +3212,7 @@
 §DynamicFiles§Low§config§adpother§Sources§animal_death.cfg
 §DynamicFiles§Low§config§adpother§Sources§animal_feeding.cfg
 §DynamicFiles§Low§config§adpother§Sources§explosion.cfg
+§DynamicFiles§Low§config§adpother§Sources§hostile_mob_death.cfg
 §DynamicFiles§Low§config§adpother§Sources§lava_mixing_water.cfg
 §DynamicFiles§Low§config§adpother§Sources§player_death.cfg
 §DynamicFiles§Low§config§adpother§Sources§player_eating.cfg
@@ -4202,6 +4204,7 @@
 §DynamicFiles§Normal§config§adpother§Sources§animal_death.cfg
 §DynamicFiles§Normal§config§adpother§Sources§animal_feeding.cfg
 §DynamicFiles§Normal§config§adpother§Sources§explosion.cfg
+§DynamicFiles§Normal§config§adpother§Sources§hostile_mob_death.cfg
 §DynamicFiles§Normal§config§adpother§Sources§lava_mixing_water.cfg
 §DynamicFiles§Normal§config§adpother§Sources§player_death.cfg
 §DynamicFiles§Normal§config§adpother§Sources§player_eating.cfg
