@@ -137,7 +137,7 @@
 			<fluidStack>water;100</fluidStack>
 		</input>
 		<output>
-			<itemStack>libvulpes:productplate;1;2</itemStack>
+			<itemStack>immersiveengineering:metal;1;40</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -155,7 +155,7 @@
 			<fluidStack>water;100</fluidStack>
 		</input>
 		<output>
-			<itemStack>libvulpes:productplate;1;9</itemStack>
+			<itemStack>immersiveengineering:metal;1;31</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -164,7 +164,7 @@
 			<fluidStack>water;100</fluidStack>
 		</input>
 		<output>
-			<itemStack>libvulpes:productplate;1;1</itemStack>
+			<itemStack>immersiveengineering:metal;1;39</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -173,7 +173,7 @@
 			<fluidStack>water;100</fluidStack>
 		</input>
 		<output>
-			<itemStack>libvulpes:productplate;1;6</itemStack>
+			<itemStack>immersiveengineering:metal;1;38</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -263,7 +263,7 @@
 			<fluidStack>water;100</fluidStack>
 		</input>
 		<output>
-			<itemStack>libvulpes:productplate;1;4</itemStack>
+			<itemStack>immersiveengineering:metal;1;30</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">

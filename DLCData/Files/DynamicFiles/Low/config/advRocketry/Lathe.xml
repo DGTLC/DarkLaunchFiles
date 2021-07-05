@@ -61,7 +61,7 @@
 			<oreDict>ingotIron</oreDict>
 		</input>
 		<output>
-			<itemStack>libvulpes:productrod;2;1</itemStack>
+			<itemStack>immersiveengineering:material;2;1</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -69,7 +69,7 @@
 			<oreDict>ingotSteel</oreDict>
 		</input>
 		<output>
-			<itemStack>libvulpes:productrod;2;6</itemStack>
+			<itemStack>immersiveengineering:material;2;2</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -133,7 +133,7 @@
 			<oreDict>ingotCopper</oreDict>
 		</input>
 		<output>
-			<itemStack>libvulpes:productrod;2;4</itemStack>
+			<itemStack>immersiveposts:metal_rods;2;1</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
